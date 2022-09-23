@@ -28,9 +28,10 @@ After you have run that file, you can then start making your own tables using So
 
 Please contact me if you want to change anything but are lost or get stuck!
 
+# Notes
 Overall, I hope that you won't need too much coding experience to run these programs. You'll of course need coding experience if you want to customize them (colors, titles, etc.), but if you're wanting to fully customize them I'll assume you know how code some decent amount of Python anyway! If not, feel free to reach out to me and I can help you get your 'brand' or 'style' instead of mine.
 
-Finally, never hesitate to contact me, ever. I hope people can use this not only as a guide for their code, or as a way to quickly download some scouting player ratings from favorite leagues, but also to help anyone who wants to learn Python. If you have any questions at all, or especially if there are problems with the code (or just want to chat about why I did X or Y), shoot me a DM on Twitter! @egudi_analysis.
+Finally, never hesitate to contact me, ever. I hope people can use this not only as a guide for their code, or as a way to quickly download some ratings from favorite leagues, but also to help anyone who wants to learn Python. If you have any questions at all, or especially if there are problems with the code (or just want to chat about why I did X or Y), shoot me a DM on Twitter! @egudi_analysis.
 
 Also, I have not been coding for too long so code may be somewhat inefficient so for any experienced coders any feedback is appreciated!
 
