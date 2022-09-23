@@ -22,7 +22,7 @@ Once you have Jupyter Notebook, you can begin running these code files.
 Download the files from this repository and open them with Jupyter Notebook. The instructions should hopefully be straight forward for all files.
 
 ## Soccerment Folder
-The 1st code file to run is the "StrikerAnalysis", where I import, clean and plot the data. I include the data I exported from Soccerment which you can use to load into the StrikerAnalysis file and run the code.
+The 1st code file to run is the "StrikerRatings", where I import, clean and plot the data. I include the data I exported from Soccerment which you can use to load into the StrikerRatings file and run the code.
 
 To run that code, all you need to do is click "Run" in the top bar in Jupyter Notebook. There are some minor manual adjustmentes which I detail in the file.
 
