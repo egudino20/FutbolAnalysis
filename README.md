@@ -22,7 +22,7 @@ Once you have Jupyter Notebook, you can begin running these code files.
 Download the files from this repository and open them with Jupyter Notebook. The instructions should hopefully be straight forward for all files.
 
 ## StrikerAnalysis file
-The 1st code file to run is the "StrikerAnalysis", where I import, clean and plot the data To run that code, all you need to do is click "Run" in the top bar in Jupyter Notebook. There are some minor manual adjustmentes which I detail in the file.
+The 1st code file to run is the "StrikerAnalysis", where I import, clean and plot the data. To run that code, all you need to do is click "Run" in the top bar in Jupyter Notebook. There are some minor manual adjustmentes which I detail in the file.
 
 After you have run that file, you can then start making your own tables using Soccerment data.
 
