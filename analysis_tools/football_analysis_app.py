@@ -7,6 +7,7 @@ import os
 import json
 import pandas as pd
 import streamlit as st
+from bs4 import BeautifulSoup as soup
 
 def main():
     print("Current working directory:", os.getcwd())
