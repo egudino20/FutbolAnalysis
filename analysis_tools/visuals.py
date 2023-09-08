@@ -4210,7 +4210,7 @@ def team_performance(team, comp, season, league, metric_1, metric_2, web_app=Fal
     title_font = 'Roboto'
     body_font = 'Roboto'
 
-    main_folder = r"C:/Users/Enrique/PythonProjects/futbol-analysis/analysis_tools"
+    main_folder = r"analysis_tools"
 
     if web_app == True:
 
@@ -4312,7 +4312,7 @@ def team_performance(team, comp, season, league, metric_1, metric_2, web_app=Fal
     return fig
 
     # save figure
-    fig.savefig(f'{main_folder}/Output/{comp}/{season[5:]}/{team}-{start_date}-{end_date}', dpi=None, bbox_inches="tight")
+    #fig.savefig(f'{main_folder}/Output/{comp}/{season[5:]}/{team}-{start_date}-{end_date}', dpi=None, bbox_inches="tight")
 
 import pandas as pd
 
