@@ -35,7 +35,7 @@ def main():
     }
     league_folder = league_to_comp[country]
 
-    main_folder = r"C:\Users\Enrique\PythonProjects\futbol-analysis\analysis_tools"
+    main_folder = r"analysis_tools"
     filename = "matches_data.json"
     #filepath = os.path.join(main_folder, "Data", league_folder, year, "match-data", filename)
     filepath = "https://storage.cloud.google.com/matches-data/matches_data.json"
