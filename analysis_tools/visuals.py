@@ -34,6 +34,7 @@ import matplotlib.colors as mcolors
 
 # web scraping
 from selenium import webdriver
+from bs4 import BeautifulSoup as soup
 
 # text and annotation
 from itertools import combinations
