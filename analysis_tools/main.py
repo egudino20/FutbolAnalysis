@@ -2,7 +2,7 @@ import time
 import pandas as pd
 pd.options.mode.chained_assignment = None
 import json
-from bs4 import BeautifulSoup as soup
+#from bs4 import BeautifulSoup as soup
 import re 
 from collections import OrderedDict
 import datetime
